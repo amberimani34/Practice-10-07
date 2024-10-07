@@ -1,0 +1,20 @@
+Rename
+amber.roberts@LT-0686 MINGW64 ~/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/git-github-and-terminal/galaxy-far-far-away/tatooine
+$ mv ben_kenobi.txt obi_wan.txt
+Copy
+amber.roberts@LT-0686 MINGW64 ~/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/git-github-and-terminal/galaxy-far-far-away
+$ cp death_star/storm_trooper.txt tatooine/
+Move
+amber.roberts@LT-0686 MINGW64 ~/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/git-github-and-terminal/galaxy-far-far-away
+$ mv tatooine/millenium_falcon/ ../galaxy-far-far-away/
+amber.roberts@LT-0686 MINGW64 ~/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/git-github-and-terminal/galaxy-far-far-away
+$ mv millenium_falcon/ death_star/
+Remove
+amber.roberts@LT-0686 MINGW64 ~/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/git-github-and-terminal/galaxy-far-far-away
+$ rm death_star/millenium_falcon/obi_wan.txt 
+Git Repository
+amber.roberts@LT-0686 MINGW64 ~/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/module302/2024-10-07-git-github/sample-structure
+$ git init
+Initialized empty Git repository in C:/Users/amber.roberts/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/module302/2024-10-07-git-github/sample-structure/.git/
+amber.roberts@LT-0686 MINGW64 ~/OneDrive - Quest Resource Management/Desktop/2024-rtt-61/code/module302/2024-10-07-git-github/sample-structure (master)
+$ rm -rf .git/
